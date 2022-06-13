@@ -45,7 +45,7 @@ $ docker run -e "API_TOKEN=foo:bar" teletok
   
 ## Copyright & License 👮
 
- - Copyright (c) 2021 Sehath Perera ❤️️
+ - Copyright (c) 2021 
  - Licensed under the terms of the [MIT License](https://github.com/PereraSehath/TikTokDownloaderBot/blob/main/LICENSE)
     
 TikTokDownloaderBot is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the MIT License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
