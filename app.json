@@ -8,9 +8,9 @@
     "video",
     "tiktok"
   ],
-  "success_url": "https://github.com/PereraSehath/TikTokDownloaderBot",
-  "website": "https://github.com/PereraSehath",
-  "repository": "https://github.com/PereraSehath/TikTokDownloaderBot",
+  "success_url": "https://github.com/rioprojectx/TikTokDownloaderBot",
+  "website": "https://github.com/rioprojectx",
+  "repository": "https://github.com/rioprojectx/TikTokDownloaderBot",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
