@@ -2,7 +2,7 @@
 
 A TikTokBot that downloads trending tiktok videos and compiles them using FFmpeg Topics api
 
-## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ❤️🇱🇰
+## Hello 
 
 ## Let's connect!
 <p>
