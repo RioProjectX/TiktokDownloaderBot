@@ -4,16 +4,16 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 
 # Configs
-API_HASH = os.environ['API_HASH']
-APP_ID = int(os.environ['APP_ID'])
-BOT_TOKEN = os.environ['BOT_TOKEN']
-downloads = './downloads/{}/'
+API_HASH = '50214647e873d2a67e9b64b1c8d8faf5'
+APP_ID = '20952433'
+BOT_TOKEN = '5958948404:AAF2sTQ5N5X1dZb3HXk8mbHUAVB0rmotpik'
+downloads = './downloads/'
 
 # Button
 START_BUTTONS=[
     [
-        InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/riogroupsupport'),
-        InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/rioprojects'),
+        InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/SoFeThon'),
+        InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url='https://t.me/ooollo'),
     ],
     [InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/fckualot')],
 ]
